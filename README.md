@@ -1,2 +1,2 @@
-# Fun-With-C-
-Some cpp practices and funny code by me :P
+# Fun With C++
+Some cpp practices and funny codes by me :P
