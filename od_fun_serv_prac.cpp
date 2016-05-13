@@ -26,7 +26,7 @@
 
     for(int i = c; i < 1; ) 	
         { 		
-        if( i == 1 ) 			continue;
+        if( i == 1 ) 	 continue;
         if( i == 0 )     return 0;
         }
         
@@ -55,7 +55,7 @@
    
     fflush(stdout);
     sleep(1);
-    printf("Take care of your dearest family :-)\n");
+    printf("Take care of your dearest family :)\n");
     fflush(stdout);
     sleep(2);
     printf("\nThanks for your time\n");
@@ -68,6 +68,5 @@
     fflush(stdout);
     sleep(1);
     printf("        Bye");
-   return 0;
-    
+   return 0;  
  }
